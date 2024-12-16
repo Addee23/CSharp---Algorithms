@@ -1,4 +1,5 @@
 Student Sorting Program
+
 This project demonstrates a simple algorithmic approach to sorting a list of students based on their scores. It's a C# console application that uses the Bubble Sort algorithm 
 to organize students' scores in ascending order.
 
