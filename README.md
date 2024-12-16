@@ -4,6 +4,7 @@ This project demonstrates a simple algorithmic approach to sorting a list of stu
 to organize students' scores in ascending order.
 
 Features
+
 Add students with their names and scores.
 View the list of students before and after sorting.
 Uses Bubble Sort, a classic sorting algorithm, for educational purposes.
