@@ -10,6 +10,7 @@ View the list of students before and after sorting.
 Uses Bubble Sort, a classic sorting algorithm, for educational purposes.
 
 How It Works
+
 Students are added to a list with their names and scores.
 The program displays the students in the order they were added.
 The Bubble Sort algorithm is applied to sort the list by scores.
