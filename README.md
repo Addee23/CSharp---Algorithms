@@ -47,7 +47,4 @@ How to Run
 Requirements:
 .NET SDK installed on your system.
 
-Kopiera kod
-git clone https://github.com/<your-username>/student-sorting-program.git
-cd student-sorting-program
 
