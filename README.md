@@ -36,6 +36,7 @@ Lars: 87
 Adina: 95
 
 My Learning Journey
+
 This program was created as part of my journey to better understand sorting algorithms and their implementation in C#. 
 Writing this application helped me grasp the logic behind Bubble Sort, while also practicing basic object-oriented programming and list manipulation. 
 It’s been a fun and rewarding learning experience!
